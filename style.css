@@ -12,7 +12,7 @@ body{
 }
 .menuitems:hover{
     background-color: white;
-    color: red;
+    color: #e49e7e;
 }
 .header{
     margin: 0;
@@ -78,6 +78,7 @@ ul{
     max-width: 1170px;
     margin: 0 auto;
     padding: 0 15px;
+    text-align: center;
 }
 .header-navbar{
     display: flex;
@@ -176,4 +177,22 @@ h4{
     margin:auto;
     color: #acacac;
     font-weight: 450;
+}
+.iletisim-link-element{
+    font-size: 20px;
+    color: rgb(161, 161, 161);
+}
+.iletisim-link-element:hover{
+    background-color: #e49e7e;
+    color: white;
+}
+#yukari-git{
+    background-color: #e49e7e;
+    color: rgb(255, 255, 255);
+    padding: 40px;
+    border-radius: 30px;
+}
+#yukari-git:hover{
+    background-color: rgb(0, 0, 0);
+    
 }
