@@ -189,7 +189,8 @@ h4{
 #yukari-git{
     background-color: #e49e7e;
     color: rgb(255, 255, 255);
-    padding: 40px;
+    padding: 10px;
+    margin: 200px;
     border-radius: 30px;
 }
 #yukari-git:hover{
